@@ -1,15 +1,18 @@
-# =PACAN=
-=====
+# __=PACAN=__
 
-Roguelike Pac-Man made using curses. Or something like that.
+### Description:
+Roguelike(?) Pac-Man made using Python & curses.
+
+===
 
 ### Symbols:
-  @ : pacan
-  # : ghost
-  . : pellet
-  o : power pellet
-  X : wall
+__@__ : pacan  
+__#__ : ghost  
+__.__ : pellet  
+__o__ : power pellet  
+__X__ : wall  
   
+===
   
 ### Rules:  
 Collect all the pellets to win. You have three lives. Touching a ghost while they are not scared costs you one life (and the ghost dies).
