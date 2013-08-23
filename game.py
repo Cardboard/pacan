@@ -1,7 +1,7 @@
 import curses
 import random
 
-import pygame # for music
+#import pygame # for music
 
 import player
 import enemy
